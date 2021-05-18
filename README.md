@@ -12,6 +12,11 @@
  
 # Project
 
-▶[デザイン部](https://github.com/furuhashilab/fc_Design)
+- [デザイン部Repository](https://github.com/furuhashilab/fc_Design)
+ - オンラインハッカソン「ガチャガチャの中身を３Dモデリング」
+ - 何でも背景透過スタンド![image](https://user-images.githubusercontent.com/30142846/118610775-15792c80-b7f7-11eb-9eb0-b06e272307e1.png)
+ - いろんなフォントの「あ」![image](https://user-images.githubusercontent.com/30142846/118610816-22961b80-b7f7-11eb-8542-2078b8052f46.png)
+
+
 
 
